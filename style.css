@@ -123,12 +123,14 @@
 
 #banner-btn-1 {
     transition: all 0.4s;
-    font-size: 12px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    border: radius 6px;
+    border: radius 6px !important;
     background-color: #9fcb22;
     border: 1px solid#9fcb22;
     color: white;
+    min-width: 120px;
+    padding: 8px;
 }
 
 #banner-btn-1:hover,
@@ -142,13 +144,15 @@
 
 #banner-btn-2 {
     transition: all 0.4s;
-    font-size: 12px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
-    border-radius: 6px;
+    border-radius: 4px;
     background-color: #14462e;
     color: white;
     border: 1px solid #14452e;
     margin: 5px;
+    min-width: 120px;
+    padding: 8px;
 }
 
 #banner-btn-2:hover,
@@ -170,6 +174,7 @@
 .p_box .p_img {
     height: 200px;
     width: 100%;
+    overflow: hidden;
 }
 
 .p_box .p_img img {
