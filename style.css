@@ -734,3 +734,79 @@ hr.new5 {
     text-align: center;
     padding: 30px;
   }
+
+  #form {
+    background-color: #82a51a;
+    color: white;
+    padding: 0px 0px 25px 135px;
+    width: 805px;
+    margin-left: 20%;
+  }
+  
+  /* 
+      #color{
+    
+        background-color:green;
+      }  */
+  
+  
+  #email {
+  
+    padding: 10px 10px 10px 10px;
+    height: 35px;
+    width: 390px;
+    border-radius: 4px;
+    margin: 5px 5px 4px 3px;
+    position: relative;
+  }
+  
+  .submit {
+  
+    height: 32px;
+    width: 110px;
+    padding-bottom: 2px;
+  }
+  
+
+  /* footer  */
+  
+  .fotter-menue {
+    float: left;
+    width: 20%;
+  }
+  
+  .fotter-menue h3 {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .footer {
+    margin-top: -93px;
+    height: 320px;
+    color: white;
+    padding: 100px 0px;
+    background-color: #14462e;
+  }
+  
+  .footer-menue-ul {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+  }
+  
+  .footer-menue-ul li {
+    line-height: 36px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  .fotter-menue {
+    float: left;
+    width: 20%;
+}
+li a {
+    text-decoration: none;
+    color: gray;
+}
