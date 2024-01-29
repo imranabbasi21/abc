@@ -1,0 +1,17 @@
+#navbarNav{
+    padding: 6px 110px;
+    font-size:17px;
+    margin-left: -65px;
+    font-family: sans-serif;
+  }
+  .navbar-brand{
+    margin-left: 30px;
+    padding: 0px 67px; 
+  }
+  .navbar{
+    position: absolute;
+    margin-left: 145px;
+  }
+  .logo{
+    margin-left: 35px;
+  }
