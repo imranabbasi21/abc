@@ -15,3 +15,37 @@
   .logo{
     margin-left: 35px;
   }
+
+  #home-banner{
+    background-image: url("./images/Banner.png");
+    background-repeat:no-repeat;
+    background-size:cover; 
+  }
+  .top_icon{
+    color: yellowgreen;
+    padding:5px 5px 5px 5px  ;
+    background-color:white;
+    height:30px;
+    width:30px;
+    line-height:30px;
+    border-radius:100px;
+    }
+  .card-img-top
+  {
+   transform: scale(1);
+   transition: all 0.3s ease;  
+   border-top-left-radius: calc(0.25rem - 1px);
+   border-top-right-radius: calc(0.25rem - 1px);
+}
+.card-img-top:hover{
+    transform: scale(1.1);
+  }
+  .top_icon{
+    color: yellowgreen;
+    padding:5px 5px 5px 5px  ;
+    background-color:white;
+    height:30px;
+    width:30px;
+    line-height:30px;
+    border-radius:100px;
+    }
