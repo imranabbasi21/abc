@@ -505,3 +505,155 @@ hr.new5 {
     padding-top: 100px;
 
 }
+
+
+.quality_para {
+    color: gray;
+  }
+  
+  
+  
+  .btn5 {
+    padding: 6px 12px 6px 6px;
+    font-size: 12px;
+    border: 1px solid greenyellow;
+    margin-right: 386px;
+    border-radius: 3px;
+    margin-top: 30px;
+    background-color: #9fcb22;
+    color: white;
+  }
+  
+  .btn5:hover {
+    width: 100px;
+    height: 30px;
+    border: #9fcb22;
+    background-color: greenyellow;
+    -ms-transform: skewY(0.9deg);
+    /* IE 9 */
+    transform: skewY(0.5deg);
+  }
+  
+  
+  .icon {
+    margin-bottom: 15px;
+    color: goldenrod;
+  }
+  
+  #quote {
+    margin-right: 279px;
+    text-align: start;
+    color: #9fcb22;
+    font-size: 40px;
+  }
+  
+  .icon2 {
+    text-align: initial;
+    margin: -7px;
+    padding: 12px;
+    color: goldenrod;
+  }
+  
+  #detail {
+    background: #fff;
+    text-align: left;
+    padding: 50px 40px;
+  }
+  
+  
+  .Alin {
+    text-align: initial;
+    margin-right: 60px;
+  }
+  
+  #form {
+    background-color: #82a51a;
+    color: white;
+    padding: 0px 0px 25px 135px;
+    width: 805px;
+    margin-left: 20%;
+  }
+  
+  /* 
+      #color{
+    
+        background-color:green;
+      }  */
+  
+  
+  #email {
+  
+    padding: 10px 10px 10px 10px;
+    height: 35px;
+    width: 390px;
+    border-radius: 4px;
+    margin: 5px 5px 4px 3px;
+    position: relative;
+  }
+  
+  .submit {
+  
+    height: 32px;
+    width: 110px;
+    padding-bottom: 2px;
+  }
+  
+  #end {
+    position: absolute;
+    width: 337px;
+    left: 15%;
+    margin: -130px
+  }
+  
+  
+  .fotter-menue {
+    float: left;
+    width: 20%;
+  }
+  
+  .fotter-menue h3 {
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .footer {
+    margin-top: -93px;
+    height: 320px;
+    color: white;
+    padding: 100px 0px;
+    background-color: #14462e;
+  }
+  
+  .footer-menue-ul {
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+  }
+  
+  .footer-menue-ul li {
+    line-height: 36px;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .btn8 {
+    background-color: #14452e;
+    color: white;
+    border-radius: 2px;
+    width: 144px;
+    padding: 0px 1px 2px 1px;
+  }
+  
+  
+  .icon3 {
+    color: #92ddd8;
+    padding: 5px 25px;
+    margin: 5px;
+  }
+  
+  .image-first {
+    position: absolute;
+  }
