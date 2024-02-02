@@ -274,10 +274,9 @@ background-color:#f78a1a ;
 }
 
 .first_img{
-
   position: relative;
-  margin-right: -140px;
   margin-top: 158px;
+  left: 107px;
 }
 
 .shop1{
@@ -303,8 +302,8 @@ background-color:#f78a1a ;
 
 .beauty_img{
   position: absolute;
-  margin-top: 220px;
-  margin-left: 90px;
+  margin-top: 430px;
+  margin-left: 180px;
 
 }
 
@@ -371,9 +370,9 @@ font-size: 35px;
   padding: 1px 4px 1px 4px;
   border-radius: 50px 50px;
   margin-top: 15px; 
-  margin-left: 315px;
   position: absolute;
   background-color:white;
+right: 10px;
 
 }
 
@@ -388,11 +387,11 @@ font-size: 35px;
 
 .article-link1{
 
-  padding: 10px 22px 10px 22px;
+  padding: 10px 30px 10px 30px;
   transition: all 0.4s;
   border-radius: 3px;
   color: white;
-  font-size:13px;
+  font-size:14px;
   text-decoration: none;
   background-color: #14462e;  
 }
@@ -486,23 +485,21 @@ p{
 .btn4{
   border: 1px solid greenyellow;
   padding: 4px 5px 4px 5px;
-  margin-left: -59px;
+  margin-left: -77px;
   margin-top: -60px;
   cursor: pointer;
   position: absolute;
   border-radius: 4px; 
   background-color:#9fcb22;
   color: white;
+  padding: 10px 25px;
 }
 
 .btn4:hover{
   
-  width:100px;
-  height:30px;
+  padding: 10px 25px;
   border: #9fcb22;
-  background-color:greenyellow;
-  -ms-transform: skewY(0.9deg); /* IE 9 */
-  transform: skewY(0.9deg);
+  background-color:rgb(49, 74, 13);
 }
   
 
@@ -724,7 +721,7 @@ list-style: none;
 
 margin-top:51px;
 height: 500px;
-width:490px; }
+width:auto; }
 
 
 
@@ -913,7 +910,7 @@ body{
 }
 
 .top_icon{
-  padding: 12px 12px 12px 14px;
+margin-left: 18px;
   height:30px;
   width: 30px;
   line-height: 30px;
@@ -923,6 +920,11 @@ body{
   color:darkgreen;
 
 }
+
+.top_icon:hover{
+  cursor: pointer;
+}
+
 
 .icon10{
   color: white;
