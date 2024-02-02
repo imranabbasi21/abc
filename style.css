@@ -874,14 +874,13 @@ margin-bottom: 200px;
 
 li a{
 text-decoration: none;
-  color: gray;
+  color: white;
 }
 
 
         /* Shope */
 body{
   background-color: white;
-  /* background-color:rgb(204, 204, 204); */
 }
 
 
@@ -982,11 +981,6 @@ margin-left: 18px;
   background-color: #4d4848;
 }
 
-/* h5{
-
-  font-size: 0px;
-} */
-
 .search{
   width: 100%;
   background-color: #eae7e7;
@@ -1000,10 +994,6 @@ height:237px;
 background-color: #4d4848 ;
 
 }
-
-/* .col-md-4{
-border: 1px solid gray;
-} */
 
 
 .blog_c{
@@ -1099,14 +1089,4 @@ a::before :hover{
 
 .number {
   float:right;
-}
-
-
-
-/* form css */
-
-
-
-.contact_form{
-
 }
