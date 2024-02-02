@@ -1090,3 +1090,7 @@ a::before :hover{
 .number {
   float:right;
 }
+
+input{
+border-radius:5PX ;
+}
