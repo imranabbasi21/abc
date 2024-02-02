@@ -471,7 +471,7 @@ p{
  }
 
  .spacing{
-   margin: 10px 0;
+   padding-bottom: 20px;
  }
 
  #banner-btn-3{
@@ -726,7 +726,7 @@ width:auto; }
 
 
 .about {
-
+cursor: pointer;
 padding: 3px 2px 7px 0px;
 height: 180px;
 width: 304px;
@@ -777,14 +777,15 @@ position: absolute;}
 .gray{
 margin-left: -143px;
 text-align: initial;
+line-height: 60px;
 color: gray;}
 
 .lowest{
-margin-left: -146px;
+  margin-left: -146px; 
 color: black;
-text-align: initial;
-width: 481px;
-margin-left: -177px;}
+  text-align: start;
+  font-weight: 800;
+  line-height: 60px;}
 
 #home-banner-about{
 /* width:1500px; */
@@ -828,22 +829,31 @@ h1{
 }
 
 .about-btn5{
-  border: 1px solid ;
+  /* border: 1px solid ;
   border-radius: 5px;
   margin-top:22px;
   background-color:#9fcb22;
-  color: white;
+  color: white; */
+
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: #9fcb22;
+    color: white;
+    padding: 0px;
+    max-width: 200px;
+    padding: 10px;
+    margin-left: 30%;
 
 }
   
 .about-btn5:hover{
-  
-  width:100px;
-   height:30px;
-   border: #9fcb22;
+  background-color: green;
+  /* width:100px; */
+   /* height:30px; */
+   /* border: #9fcb22;
    background-color:greenyellow;
-  -ms-transform: skewY(0.9deg); /* IE 9 */
-   transform: skewY(0.9deg);
+  -ms-transform: skewY(0.9deg);
+   transform: skewY(0.9deg); */
 }
 
 video{
